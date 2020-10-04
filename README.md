@@ -2,10 +2,10 @@
 
 A new Flutter application.
 
-![screen 1](https://ibb.co/pQxnNPv)
-![screen 2](https://ibb.co/9rPYPvQ)
-![screen 3](https://ibb.co/6XyLnJp)
-![screen 4](https://ibb.co/L0GJpPH)
+<p align="center"><a href="https://i.ibb.co/YX3bJW7/1.jpg" target="_blank"><img src="https://i.ibb.co/YX3bJW7/1.jpg"></a></p>
+<p align="center"><a href="https://i.ibb.co/wzt6tL5/2.jpg" target="_blank"><img src="https://i.ibb.co/wzt6tL5/2.jpg"></a></p>
+<p align="center"><a href="https://i.ibb.co/cYyVgXp/3.jpg" target="_blank"><img src="https://i.ibb.co/cYyVgXp/3.jpg"></a></p>
+<p align="center"><a href="https://i.ibb.co/vctQzBR/4.jpg" target="_blank"><img src="https://i.ibb.co/vctQzBR/4.jpg"></a></p>
 
 ## Getting Started
 
