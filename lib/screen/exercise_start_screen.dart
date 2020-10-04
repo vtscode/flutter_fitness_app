@@ -113,7 +113,16 @@ class _ExerciseStartScreenState extends State<ExerciseStartScreen> {
                 ),
                 splashColor: Colors.black,
               ),
-            )
+            ),
+
+            Container(
+              child: FlatButton(
+                child: Text('X', style: TextStyle(color: Colors.white),),
+                onPressed: (){
+                  Navigator.of(context).pop();
+                },
+              ),
+            ),
           ]
         ),
       ),
